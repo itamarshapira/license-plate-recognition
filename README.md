@@ -1,5 +1,5 @@
 # License Plate Reader Project
-# BY **`Gerard Loinov & Itamar Shapira`**
+# BY *`Gerard Levinov & Itamar Shapira`*
 
 ## Overview
 This project is designed to process vehicle license plate images, extract the license number using an image recognition API, and fetch detailed vehicle information from the national vehicle office in Israel.
